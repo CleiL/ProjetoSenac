@@ -6,30 +6,30 @@ Telas relativas ao login.
 
 ### IR PARA
 
-[LOGIN ALUNO](#login-aluno)
-[LOGIN FORNECEDOR](#login-fornecedor)
-[LOGIN PROFESSOR](#login-professor)
+[LOGIN ALUNO](#login-aluno)  
+[LOGIN FORNECEDOR](#login-fornecedor)  
+[LOGIN PROFESSOR](#login-professor)  
 
 ## LOGIN ALUNO
 
 ### IR PARA
 
-[CADASTRO](cadastro.md#cadastro-de-aluno)
-[ESQUECI A SENHA](senha.md)
-[AREA LOGADA](area.md#area-do-aluno)
+[CADASTRO](cadastro.md#cadastro-de-aluno)  
+[ESQUECI A SENHA](senha.md)  
+[AREA LOGADA](area.md#area-do-aluno)  
 
 ## LOGIN FORNECEDOR
 
 ### IR PARA
 
-[CADASTRO](cadastro.md#cadastro-de-fornecedor)
-[ESQUECI A SENHA](senha.md)
-[AREA LOGADA](area.md#area-do-fornecedor)
+[CADASTRO](cadastro.md#cadastro-de-fornecedor)  
+[ESQUECI A SENHA](senha.md)  
+[AREA LOGADA](area.md#area-do-fornecedor)  
 
 ## LOGIN PROFESSOR
 
 ### IR PARA
 
-[CADASTRO](cadastro.md#cadastro-de-professor)
-[ESQUECI A SENHA](senha.md)
-[AREA LOGADA](area.md#area-do-professor)
+[CADASTRO](cadastro.md#cadastro-de-professor)  
+[ESQUECI A SENHA](senha.md)  
+[AREA LOGADA](area.md#area-do-professor)  
