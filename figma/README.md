@@ -6,16 +6,16 @@ Navegue entre as opçoes a seguir
 
 ## LOGIN
 
-[IR PARA O LOGIN](login.md)
+[IR PARA O LOGIN](login.md)  
 
 ## RESET DE SENHA
 
-[IR PARA O RESET DE SENHA](login.md)
+[IR PARA O RESET DE SENHA](login.md)  
 
 ## CADASTRO
 
-[IR PARA O CADASTRO](login.md)
+[IR PARA O CADASTRO](login.md)  
 
 ## ÁREA LOGADA
 
-[IR PARA A ÁREA LOGADA](login.md)
+[IR PARA A ÁREA LOGADA](login.md)  

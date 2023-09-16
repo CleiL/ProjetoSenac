@@ -51,17 +51,17 @@ ProjetoSenac/
 
 A interface de usuário foi prototipada utilizxando o FIGMA, dessa forma disponibilizamos:
 
-[Link do projeto](https://www.figma.com/file/oNUock5SajJcGMK6nGMXzt/Sistema-de-Gest%C3%A3o-Universitario?type=design&node-id=0%3A1&mode=design&t=xLRZSvxMXvZ7rKXD-1)  
+[Link do projeto](https://www.figma.com/file/oNUock5SajJcGMK6nGMXzt/Sistema-de-Gest%C3%A3o-Universitario?type=design&node-id=0%3A1&mode=design&t=xLRZSvxMXvZ7rKXD-1) no figma  
 
-[Telas do projeto](figma/README.md)
+[Telas do projeto](figma/README.md) (_screenshots_)
 
 ## Integrantes
 
-![BN](https://avatars.githubusercontent.com/u/28903793?s=48&v=4) [Bruno Natali](https://github.com/brunonatali)
-![CA](https://avatars.githubusercontent.com/u/105674395?s=48&v=4) [Carlos Eduardo Aquino](https://github.com/eduardocaqm)
-![CL](https://avatars.githubusercontent.com/u/64207875?s=48&v=4) [Clei Lisboa](https://github.com/CleiL)
-![DL](https://avatars.githubusercontent.com/u/95236660?s=48&v=4) [Davi Lima](https://github.com/DaviLima891)
-![G](https://avatars.githubusercontent.com/u/97316682?s=48&v=4) [Gustavo](https://github.com/Gustavobsbs)
-![KR](https://avatars.githubusercontent.com/u/144499580?s=48&v=4) [Karine Ramalho](https://github.com/KarineDRamalho)
-![VS](https://avatars.githubusercontent.com/u/63067315?s=48&v=4) [Vinicius Sales](https://github.com/vinidesalescosta)
-![W](https://avatars.githubusercontent.com/u/143947304?s=48&v=4) [W89James](https://github.com/W89James)
+<img src="https://avatars.githubusercontent.com/u/28903793?s=48&v=4" width="30" height="30"> [Bruno Natali](https://github.com/brunonatali)  
+<img src="https://avatars.githubusercontent.com/u/105674395?s=48&v=4" width="30" height="30"> [Carlos Eduardo Aquino](https://github.com/eduardocaqm)  
+<img src="https://avatars.githubusercontent.com/u/64207875?s=48&v=4" width="30" height="30"> [Clei Lisboa](https://github.com/CleiL)  
+<img src="https://avatars.githubusercontent.com/u/95236660?s=48&v=4" width="30" height="30"> [Davi Lima](https://github.com/DaviLima891)  
+<img src="https://avatars.githubusercontent.com/u/97316682?s=48&v=4" width="30" height="30"> [Gustavo](https://github.com/Gustavobsbs)  
+<img src="https://avatars.githubusercontent.com/u/144499580?s=48&v=4" width="30" height="30"> [Karine Ramalho](https://github.com/KarineDRamalho)  
+<img src="https://avatars.githubusercontent.com/u/63067315?s=48&v=4" width="30" height="30"> [Vinicius Sales](https://github.com/vinidesalescosta)  
+<img src="https://avatars.githubusercontent.com/u/143947304?s=48&v=4" width="30" height="30"> [W89James](https://github.com/W89James)  
