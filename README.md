@@ -48,12 +48,12 @@ ProjetoSenac/
 ├── README.md
 ```
 
-[**DOCS**](docs/README.md) Materiais de apoio e arquivos anexados
-[**FIGMA**](figma/README.md) Interface de protótipo
+[**DOCS**](docs/README.md) Materiais de apoio e arquivos anexados  
+[**FIGMA**](figma/README.md) Interface de protótipo  
 
-- [**IMG**](figma/img/) Armazena todas as telas do protótipo em alta definição
+- [**IMG**](figma/img/) Armazena todas as telas do protótipo em alta definição  
 
-[**SRC**](src/README.md) Arquivos de código para o desenvolviemnto extra
+[**SRC**](src/README.md) Arquivos de código para o desenvolviemnto extra  
 
 ## Interface de usuário
 
