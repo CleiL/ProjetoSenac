@@ -2,7 +2,7 @@
 
 Protótipos da interface do sistema.
 
-Navegue entre as opçoes a seguir
+Navegue entre as opçoes a seguir:
 
 ## LOGIN
 
